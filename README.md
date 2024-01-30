@@ -5,7 +5,7 @@
 - 💎 Worked extensively (on Cloud development and Data engineering) in Dynamics 365, Power Platform, Azure
 - 🎯 Certified in Azure | Power Platorm | Dynamics 365
 - 🌱 Azure | AWS
-- 🔥 Spark | Airflow | SSIS | Talend | Alteryx
+- 🔥 Spark | Airflow | SSIS | Talend | Alteryx | ADF
 - ✏️ Docker | Github actions | Terraform
 - 💾 PostGreSQL | SQL Server | MySQL | Pinecone | Oracle
 - 👯 I’m looking for any opportunities in Cloud development or Data engineering
