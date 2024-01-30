@@ -3,6 +3,7 @@
 
 - 💻 Previously @Senior Engineer (Cloud and Software Services) at Larsen and Toubro Infotech
 - 💎 Worked extensively (on Cloud development and Data engineering) in Dynamics 365, Power Platform, Azure
+- 🎯 Certified in Azure | Power Platorm | Dynamics 365
 - 🌱 Azure | AWS
 - 🔥 Spark | Airflow | SSIS | Talend | Alteryx
 - ✏️ Docker | Github actions | Terraform
