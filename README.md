@@ -9,7 +9,7 @@
 - ✏️ Docker | Github actions | Terraform
 - 💾 PostGreSQL | SQL Server | MySQL | Pinecone | Oracle
 - 👯 I’m looking for any opportunities in Cloud development or Data engineering
-- 📫 How to reach me: gandi.c@northeastern.edu
+- 📫 Reach out to me at gandi.c@northeastern.edu
 - 😄 Pronouns: He/Him
 - ⚡ Developed: Applications like PDF-GPT, NewsAggregator, RoommateFinder and ResumeScreener. Go through the github repos for more details
 - 📋 Check out more details here (https://github.com/chinmaygandi/Resume)
