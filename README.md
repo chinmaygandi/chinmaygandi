@@ -1,15 +1,7 @@
 ### Hi there 👋
 
 
-- 💻 Previously @Senior Engineer (Cloud and Software Services) at Larsen and Toubro Infotech
-- 💎 Worked extensively (on Cloud development and Data engineering) in Dynamics 365, Power Platform, Azure
-- 🎯 Certified in Azure | Power Platorm | Dynamics 365 | Terraform
-- 🌱 Azure | AWS | GCP
-- 🔥 Spark | Airflow | SSIS | Talend | Alteryx | ADF
-- ✏️ Docker | Github actions | Terraform
-- 💾 PostGreSQL | SQL Server | MySQL | Pinecone | Oracle
-- 👯 I’m looking for any opportunities in Cloud development or Data engineering
-- 📫 Reach out to me at gandi.c@northeastern.edu
-- 😄 Pronouns: He/Him
-- ⚡ Developed: Applications like PDF-GPT, NewsAggregator, RoommateFinder and ResumeScreener. Go through the github repos for more details
+- 💻 @Data/ML at Ateyti Inc (Client : CITI Bank)
+- 💎 Worked extensively on Cloud, Software development and Data engineering 
+- 📫 Reach out to me at gandi.c@northeastern.edu for any opportunities in tech space
 - 📋 Check out more details here (https://github.com/chinmaygandi/Resume)
